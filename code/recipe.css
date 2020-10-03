@@ -1,0 +1,39 @@
+h1 {
+  color: #A4A400;
+  font-size: 22pt;
+}
+
+p.attr {
+  color:#404040 ;
+  font-size: 11pt;
+}
+
+ul.ingredients {
+  list-style-type: circle;
+  color:#404040 ;
+  font-size: 11pt;
+  text-indent: 4em;
+  font-weight: bold;
+}
+
+
+p.a {
+  font-style: normal;
+  color:#404040 ;
+  font-size: 11pt;
+
+}
+
+ul.directions {
+  font-style: normal;
+  color:#404040 ;
+  font-size: 11pt;
+
+
+}
+
+p.comment {
+  font-style: italic;
+  font-size: 11pt;
+  background-color: #FFFFA8;
+}
